@@ -1,0 +1,17 @@
+[
+    {
+      "googleId": "123456789",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "weight": 70,
+      "height": 175
+    },
+    {
+      "googleId": "987654321",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "weight": 65,
+      "height": 160
+    }
+  ]
+  
